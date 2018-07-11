@@ -1,0 +1,6 @@
+[06-May-2018 13:59:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/hw3614ag9aem/public_html/logout.php on line 9
+[16-May-2018 14:13:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/thokm61kdi0p/public_html/logout.php on line 9
+[16-May-2018 14:28:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/thokm61kdi0p/public_html/logout.php on line 9
+[24-May-2018 12:37:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/thokm61kdi0p/public_html/logout.php on line 9
+[27-May-2018 16:39:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/thokm61kdi0p/public_html/logout.php on line 9
+[29-May-2018 02:12:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/thokm61kdi0p/public_html/logout.php on line 9

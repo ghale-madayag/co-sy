@@ -1,0 +1,141 @@
+[06-May-2018 13:49:06 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/hw3614ag9aem/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/hw3614ag9aem/public_html/data/usr-handler.php on line 330
+[06-May-2018 13:49:07 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/hw3614ag9aem/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/hw3614ag9aem/public_html/data/usr-handler.php on line 330
+[06-May-2018 17:49:21 UTC] PHP Notice:  Undefined variable: result in /home/hw3614ag9aem/public_html/data/esr-handler.php on line 463
+[06-May-2018 17:49:46 UTC] PHP Notice:  Undefined variable: result in /home/hw3614ag9aem/public_html/data/esr-handler.php on line 463
+[06-May-2018 17:50:17 UTC] PHP Notice:  Undefined variable: result in /home/hw3614ag9aem/public_html/data/esr-handler.php on line 463
+[06-May-2018 17:52:53 UTC] PHP Notice:  Undefined variable: result in /home/hw3614ag9aem/public_html/data/recent-handler.php on line 27
+[06-May-2018 17:53:04 UTC] PHP Notice:  Undefined variable: result in /home/hw3614ag9aem/public_html/data/esr-handler.php on line 463
+[16-May-2018 13:56:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cosy_db.user' doesn't exist in /home/thokm61kdi0p/public_html/data/login-handler.php:12
+Stack trace:
+#0 /home/thokm61kdi0p/public_html/data/login-handler.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/login-handler.php on line 12
+[16-May-2018 14:03:33 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 258
+[16-May-2018 14:03:47 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 258
+[16-May-2018 14:03:55 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 258
+[16-May-2018 14:04:24 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:04:24 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:04:44 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:04:44 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:05:21 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:05:22 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:06:02 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:06:02 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:06:31 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:06:32 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:11:04 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:11:05 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:12:26 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:12:27 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:12:32 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:12:33 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:13:03 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:13:03 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:13:30 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:13:30 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:14:55 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:14:55 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:15:10 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/patient-handler.php:354
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/patient-handler.php on line 354
+[16-May-2018 14:15:11 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/patient-handler.php:354
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/patient-handler.php on line 354
+[16-May-2018 14:15:35 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[16-May-2018 14:15:35 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/thokm61kdi0p/public_html/data/usr-handler.php:330
+Stack trace:
+#0 {main}
+  thrown in /home/thokm61kdi0p/public_html/data/usr-handler.php on line 330
+[27-May-2018 16:24:48 UTC] PHP Notice:  Undefined variable: result in /home/thokm61kdi0p/public_html/data/esr-handler.php on line 463
+[27-May-2018 16:24:55 UTC] PHP Notice:  Undefined variable: result in /home/thokm61kdi0p/public_html/data/info-handler.php on line 48
+[27-May-2018 16:25:18 UTC] PHP Notice:  Undefined variable: result in /home/thokm61kdi0p/public_html/data/profile-handler.php on line 127
+[27-May-2018 16:25:21 UTC] PHP Notice:  Undefined variable: result in /home/thokm61kdi0p/public_html/data/info-handler.php on line 48
+[27-May-2018 16:25:25 UTC] PHP Notice:  Undefined variable: result in /home/thokm61kdi0p/public_html/data/info-handler.php on line 48
+[27-May-2018 16:25:36 UTC] PHP Notice:  Undefined variable: result in /home/thokm61kdi0p/public_html/data/profile-handler.php on line 127
+[28-May-2018 02:37:04 UTC] PHP Notice:  Undefined variable: result in /home/thokm61kdi0p/public_html/data/patient-search.php on line 27
